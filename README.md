@@ -22,7 +22,7 @@ Para que el código de este repositorio funcione, es necesario contar con lo sig
 * Alguna IDE:
   * [Arduino 1.8 o superior](#arduino-ide)
     * Biblioteca [PubSubClient](#pubsubclient)
-  * [Atom / Visual Studio Code](#atom/visual-studio-code)
+  * [Atom / Visual Studio Code](#atom)
 * [Broker Mosquitto](#broker-mosquitto) funcionando de forma local en el puerto 1883
 * [NodeRed](#nodered) corriendo de forma local en el puerto 1880
 
