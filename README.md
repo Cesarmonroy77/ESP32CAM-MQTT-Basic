@@ -4,7 +4,7 @@ Este repositorio contiene el programa básico para conectar el ESP32CAM a un bro
 * [Requerimientos](#requerimientos)
   * [Hardware](#hardware)
   * [Software](#software)
-  * [Configuración](#Configuración)
+* [Configuración](#Configuración)
 * [Funcionamiento](#funcionamiento)
 
 ## Requerimientos
